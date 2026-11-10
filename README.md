@@ -1,2 +1,2 @@
 # career-engine
-AI-powered, profession-independent career development platform
+AI-powered, profession-independent career development platform.
